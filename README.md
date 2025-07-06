@@ -35,24 +35,23 @@ This project demonstrates how Python can interact with SQL databases to build re
 ## 📂 Project Structure
 
 Fashion-Store-DB/
-├── fashion\_store.py             → Main Python script
-├── output\_screenshots/          → Screenshots (optional)
-├── CS\_PROJECT.pdf               → Original project report
-└── README.md                    → Project documentation
+- fashion_store.py → Main Python script  
+- CS_PROJECT.pdf → Original project report  
+- README.md → Project documentation
 
 ---
 
 ## 📷 Sample Output
 
-Enter 1: To Add Product
-Enter 2: To View Product
-Enter 3: To Edit Product
-Enter 4: To Delete Product
-Enter 5: To Purchase Product
-Enter 6: To View Purchases
-Enter 7: To Sale the item
-Enter 8: To View Sales Details
-Enter 9: To View Stock
+Enter 1: To Add Product  
+Enter 2: To View Product  
+Enter 3: To Edit Product  
+Enter 4: To Delete Product  
+Enter 5: To Purchase Product  
+Enter 6: To View Purchases  
+Enter 7: To Sale the item  
+Enter 8: To View Sales Details  
+Enter 9: To View Stock  
 Enter 10: Break
 
 ---
