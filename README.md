@@ -35,10 +35,10 @@ This project demonstrates how Python can interact with SQL databases to build re
 ## 📂 Project Structure
   
 Fashion-Store-DB/    
-├── fashion_store.py       → Main Python script    
-├── output_screenshots/    → Screenshots (optional)    
-├── CS_PROJECT.pdf         → Original project report    
-└── README.md              → Project documentation    
+├── fashion_store.py           → Main Python script    
+├── output_screenshots/        → Screenshots (optional)    
+├── CS_PROJECT.pdf             → Original project report    
+└── README.md                  → Project documentation    
 
 ---
 
